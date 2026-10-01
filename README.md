@@ -10,7 +10,7 @@ The exercises are built to consolidate mathematical foundation and prepare for U
 - NumPy, Pandas & Matplotlib visualization
 - Basic machine learning algorithm implementation
 
-## 📁 File Structure (will be updated)
-- `/linear_algebra` — Linear algebra coding exercises
-- `/prob_stats` — Probability and statistics simulation
-- `/ml_basics` — Introductory machine learning practice
+## 📁 File Structure
+- `/linear_algebra` — Linear algebra coding exercises（matrix multiplication）
+- `/prob_stats` — Probability and statistics simulation（dice‑rolling Monte‑Carlo）
+- `/ml_basics` — Introductory machine learning practice（to‑be‑added）
